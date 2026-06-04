@@ -55,7 +55,7 @@ CREATE TABLE IF NOT EXISTS fact_performance (
     anomaly_flag INTEGER DEFAULT 0,
     FOREIGN KEY (amfi_code) REFERENCES dim_fund(amfi_code)
 );
-
+zz
 -- Fact: Assets Under Management (AUM)
 CREATE TABLE IF NOT EXISTS fact_aum (
     aum_id INTEGER PRIMARY KEY AUTOINCREMENT,

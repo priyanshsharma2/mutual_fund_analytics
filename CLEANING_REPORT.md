@@ -117,14 +117,14 @@ All 10 CSV datasets have been cleaned, validated, and prepared for analytics. A 
 
 ## Data Quality Checks Performed
 
-✅ **Type Conversion:** All columns converted to appropriate types (datetime, numeric, string)  
-✅ **Range Validation:** Expense ratios, weights, returns within realistic ranges  
-✅ **Enum Validation:** Transaction types, KYC status, city tiers standardized  
-✅ **Null Handling:** Missing dates removed, NAV forward-filled, amounts forward-filled  
-✅ **Duplicate Removal:** By primary keys (amfi_code, date, investor_id)  
-✅ **Outlier Filtering:** Negative NAVs, invalid prices, impossible returns removed  
-✅ **Consistency Checks:** Portfolio breakdown validated against totals  
-✅ **Text Standardization:** Trimmed whitespace, consistent case for keys
+ **Type Conversion:** All columns converted to appropriate types (datetime, numeric, string)  
+ **Range Validation:** Expense ratios, weights, returns within realistic ranges  
+ **Enum Validation:** Transaction types, KYC status, city tiers standardized  
+ **Null Handling:** Missing dates removed, NAV forward-filled, amounts forward-filled  
+ **Duplicate Removal:** By primary keys (amfi_code, date, investor_id)  
+ **Outlier Filtering:** Negative NAVs, invalid prices, impossible returns removed  
+ **Consistency Checks:** Portfolio breakdown validated against totals  
+ **Text Standardization:** Trimmed whitespace, consistent case for keys
 
 ---
 
@@ -168,11 +168,11 @@ data/processed/
 
 ## Next Steps
 
-1. ✅ **Data Cleaning:** Complete (all 10 datasets cleaned)
-2. ✅ **SQLite Loading:** Complete (user confirmed successful)
-3. ⏳ **SQL Query Conversion:** Convert queries from SQL Server → SQLite syntax
-4. ⏳ **Analytics:** Run 10 queries for insights
-5. ⏳ **Documentation:** Finalize data dictionary
+1.  **Data Cleaning:** Complete (all 10 datasets cleaned)
+2.  **SQLite Loading:** Complete (user confirmed successful)
+3.  **SQL Query Conversion:** Convert queries from SQL Server → SQLite syntax
+4.  **Analytics:** Run 10 queries for insights
+5.  **Documentation:** Finalize data dictionary
 
 ---
 
@@ -185,4 +185,4 @@ data/processed/
 
 ---
 
-**Status:** ✅ **READY FOR ANALYTICS**
+**Status:**  **READY FOR ANALYTICS**
