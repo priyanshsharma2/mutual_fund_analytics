@@ -1,7 +1,7 @@
 # Mutual Fund Analytics - Data Cleaning Report
 
 **Report Generated:** 2025-06-03  
-**Status:** ✅ **ALL 10 DATASETS CLEANED SUCCESSFULLY**
+**Status:**  **ALL 10 DATASETS CLEANED SUCCESSFULLY**
 
 ---
 
