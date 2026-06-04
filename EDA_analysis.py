@@ -189,4 +189,4 @@ plt.tight_layout()
 plt.savefig("exported_charts/chart_18_sector_donut.png")
 plt.close()
 
-print("🎯 Clean run complete! 18 separate high-fidelity analytical charts exported successfully.")
+print(" Clean run complete! 18 separate high-fidelity analytical charts exported successfully.")
