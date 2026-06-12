@@ -91,7 +91,7 @@ Neeche diye gaye steps ko follow kijiye:
 
 ### 📝 Copy this Code into your `README.md`
 
-```markdown
+markdown
 # 📊 Mutual Fund Analytics – Capstone Project
 
 An end-to-end production-ready data engineering and analytics pipeline designed to ingest, clean, schema-model, and perform risk-analytics on multi-dimensional mutual fund datasets. The system processes over 120,000 raw rows to build a validated **SQLite Star Schema**, running advanced metrics and a fund recommendation engine.
