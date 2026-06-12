@@ -6,7 +6,7 @@ All 8 tasks completed successfully! Ready for production deployment.
 
 ---
 
-## 📦 What's Included
+##  What's Included
 
 ### Data Processing
 - **10 Cleaned Datasets** → `data/processed/` (87,532 rows)
